@@ -1,13 +1,13 @@
-# Customer-Database-Querying-and-Analysis
+# 💻 Customer-Database-Querying-and-Analysis
 This name reflects the core focus of the project on querying a database to retrieve and analyze customer details, including various SQL operations and functions.
 
-## Project Overview
+## 🔭 Project Overview
 This project involves querying a customer database to retrieve and analyze customer details, including names, phone numbers, email IDs, sales made in a particular month, increase in month-on-month sales, and total sales made to a particular customer.
 
-## Problem Statement
+## 🔈Problem Statement
 The objective is to gain insights into customer data by executing various SQL queries. This involves downloading a database, restoring it on a server, and querying the database to extract detailed customer information and sales data.
 
-## Topics
+## 🔍 Topics
 - Table basics and data types
 - Various SQL operators
 - Various SQL functions
@@ -28,7 +28,7 @@ The objective is to gain insights into customer data by executing various SQL qu
   3. Analyze Results:
     - Use the results from the SQL queries to gain insights into customer information and sales performance.
      
-## Skills Demonstrated
+## 🏆 Skills Demonstrated
 - Data Analysis
 - SQL
 - Database Querying
